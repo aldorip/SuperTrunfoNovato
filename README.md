@@ -1,4 +1,4 @@
-# 🗺️ Super Trunfo - (Jogo de Cartas em C)
+# 🗺️ Super Trunfo - (Jogo de Cartas em C) - Tema  1
 
 Este é o projeto do desafio **Super Trunfo em C**, voltado para quem desejam comparar cartas de países com base em atributos diversos.  
 O sistema é simples, intuitivo e educativo — ideal para praticar estruturas de dados (`struct`), funções e condicionais em C.
