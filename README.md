@@ -1,25 +1,30 @@
-# 🃏 Super Trunfo - Nível Aventureiro (Jogo de Cartas em C)
+# 🗺️ Super Trunfo - (Jogo de Cartas em C)
 
-Este é o projeto do desafio **Super Trunfo em C**, voltado para os corajosos **aventureiros** que desejam comparar cartas de países com base em múltiplos atributos. O sistema oferece menus interativos, tratamento de entrada do usuário, uso de estruturas de decisão (`switch`, `if-else`), e lógica de comparação entre atributos de forma clara e divertida.
+Este é o projeto do desafio **Super Trunfo em C**, voltado para quem desejam comparar cartas de países com base em atributos diversos.  
+O sistema é simples, intuitivo e educativo — ideal para praticar estruturas de dados (`struct`), funções e condicionais em C.
+
+---
 
 ## 🎯 Objetivo
 
-Permitir que o jogador, como um verdadeiro **aventureiro explorador**, escolha um atributo entre:
+Permitir que o jogador, escolha **um único atributo** entre:
 
-- População
-- Área
-- PIB
-- Pontos Turísticos
-- Densidade Demográfica *(regra inversa: menor vence)*
+- 🌍 População  
+- 📐 Área  
+- 💰 PIB  
+- 🏛️ Pontos Turísticos  
+- 👥 Densidade Demográfica *(regra inversa: menor vence!)*
 
-E realize a comparação entre **duas cartas pré-definidas** representando países. A carta com o melhor desempenho no atributo escolhido vence a rodada.
+E realizar a comparação entre **duas cartas pré-definidas** representando países (Brasil e Canadá).  
+A carta com melhor desempenho no atributo selecionado vence a rodada.
 
 ---
 
 ## 🛠️ Tecnologias
 
 - Linguagem: **C**
-- Compilador: `gcc` ou qualquer outro compilador compatível com o padrão ANSI C
+- Compilador: `gcc` ou qualquer outro compatível com o padrão ANSI C
+- Terminal: Linux/macOS ou cmd/PowerShell no Windows
 
 ---
 
