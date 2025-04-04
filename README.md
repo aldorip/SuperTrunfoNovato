@@ -1,4 +1,4 @@
-# 🃏 Super Trunfo - Nível Novato (Cadastro de Cartas em C)
+# 🃏 Super Trunfo - Nível Novato(Cadastro de Cartas em C)
 
 Este é o projeto do desafio **Super Trunfo - Nível Novato**, ideal para quem está começando na linguagem **C**. O foco aqui é **aprender a declarar variáveis**, **receber dados do usuário** e **exibir informações na tela** com clareza e organização.
 
